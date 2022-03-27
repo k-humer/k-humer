@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=k-humer&style=plastic&label=profile+views&color=orange)
+
 ### Hi there 👋
 
 <!--
